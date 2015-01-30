@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3958752043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2e27681eaf49f01c4f4a0fe60e1023d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+  Asset_0: Assets/Images/Image249.png
+  Asset_1: Assets/Images/Image248.png
+Dependencies: {}
